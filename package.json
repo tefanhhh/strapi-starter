@@ -15,7 +15,7 @@
     "@strapi/plugin-users-permissions": "4.24.2",
     "@strapi/plugin-i18n": "4.24.2",
     "@strapi/plugin-cloud": "4.24.2",
-    "better-sqlite3": "8.6.0",
+    "pg": "8.8.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
@@ -25,7 +25,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "d12702e2-51cf-4bbf-bd0a-baff9c78c54d"
+    "uuid": "8a0585ac-b8b7-4ce7-95b5-725f3fcc5ce5"
   },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",
