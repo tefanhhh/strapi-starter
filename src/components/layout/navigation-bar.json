@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_layout_navigation_bars",
+  "info": {
+    "displayName": "Navigation Bar",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "path": {
+      "type": "string"
+    }
+  }
+}
